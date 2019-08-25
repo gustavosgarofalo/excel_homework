@@ -1,2 +1,2 @@
-# excel_homework
+# homework submission repo
 BC homework submition
