@@ -5,3 +5,7 @@ Most of the skills displayed here were learn either by self studying or formal e
 Excel is a tool that I am completely confortable utilizing, in order to produce dashboards, performing statistical analysis and managing datasets. Although is is a wonderfull tool which I love, it has its limitations when it ccomes to processing huge amounts of data. I have experienced this limitations first hand when working on a job to perform a demand forecast.
 
 The skill displayed in this repository is EXCEL.
+
+_________________________________________________________________________________________________________________________________________
+
+
